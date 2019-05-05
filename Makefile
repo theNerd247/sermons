@@ -1,7 +1,7 @@
 .PHONY: all mvc
 
 srcs=$(wildcard mvc/*.md)
-bin=./bin
+bin=./docs
 pdfs := $(addprefix $(bin)/,$(srcs:%.md=%.pdf))
 
 all: mvc $(bin) $(pdfs)
