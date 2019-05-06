@@ -2,8 +2,8 @@ language: nix
 nix: 2.0.4
 
 before_deploy:
-  - mv result/docs .
-  - mv result/index.html .
+  - cp -r result/docs ./docs
+  - cp result/index.html ./index.html
 
 deploy:
   provider: pages
