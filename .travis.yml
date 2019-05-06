@@ -1,6 +1,11 @@
 language: nix
 nix: 2.0.4
 
+before_deploy:
+  - ls result
+  - cp -r result/docs ./docs
+  - cp result/index.html ./index.html
+
 deploy:
   provider: pages
   skip_cleanup: true
