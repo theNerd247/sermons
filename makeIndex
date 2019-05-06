@@ -1,0 +1,16 @@
+function makeIndexFile() {
+echo "<html>" 
+echo "<body>"
+echo "<h1>Sermons</h1>"
+
+echo "<ul>"
+for f in $(ls docs/*/*.pdf); do
+  echo "<li><a href='$f'>mvc/$(basename $f)</a></li>"
+done
+echo "</ul>"
+
+echo "</body>"
+echo "</html>"
+}
+
+makeIndexFile > index.html
