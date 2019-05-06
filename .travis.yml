@@ -1,6 +1,10 @@
 language: nix
 nix: 2.0.4
 
+before_deploy:
+  - mv result/docs .
+  - mv result/index.html .
+
 deploy:
   provider: pages
   skip_cleanup: true
