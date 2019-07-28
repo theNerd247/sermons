@@ -5,6 +5,7 @@ before_deploy:
   - ls result
   - cp -r result/docs ./docs
   - cp result/index.html ./index.html
+  - rm -r result
 
 deploy:
   provider: pages
