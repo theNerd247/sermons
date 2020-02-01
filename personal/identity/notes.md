@@ -1,5 +1,6 @@
 # Notes 
 
+1. printout passage along side diagrams
 1. determine the "whos" in this passage
   1. which person of the Trinity is being discussed?
 
@@ -23,8 +24,10 @@ __Imagine that. You were not an after thought to God.__
 
 God → chose → you
       ├─ (who)  in Him (Christ)
-      ├─ (when) before the foundation of the world → the creation of time and space.
-      └─ (why)  that we might be holy, and blameless before Him (God the Father?)
+      ├─ (when) before the foundation of the world → the creation of time and
+      │         space.
+      └─ (why)  that we might be holy, and blameless before Him (God the
+                Father)
 
 "chose"
 : Grk. "exelexato" (first middle aorist of "eklego" 
@@ -58,6 +61,8 @@ Essential points:
   * (if you are saved - i.e. one of the chosen) God is not looking for faults
     within you. He is pleased with who you are.
 
+_Personal story_
+
 I had a step-mother growing up who would inspect the result of my chores before
 I was allowed to leave the house - ever (before school, before going outside to
 play). I had to ask for permission; upon which - at her leisure - she would
@@ -70,6 +75,8 @@ things to us that are behind the different partitions of our life it is for the
 purpose of our benefit and His pleasure of making us into His Son. It's a gift
 that keeps on giving! 
 
+_Application point_
+
 Often we inspect others with the intent of fault finding. It's those sentences
 that start like: "They had better not ..." or "Did they just...?" or "I hope
 they didn't ...". We are hoping something is wrong with them or with what they
@@ -79,6 +86,18 @@ fault finder in us - DOESN'T. When we come into God's family He doesn't try
 and find out all our faults when He looks at us.
 
 # Adopted
+
+He predestined us 
+  │
+  ├─ (how) In love
+  ├─ (what) to adoption as sons 
+  ├─ (how) through Jesus Christ
+  ├─ (who) to Himself (God the Father)
+  ├─ (why) according to the kind intention of his will
+  ├─ (why) to the praise of the glory of His grace
+  └─ (what) (side-effect) which He freely bestowed on us in the Beloved
+
+_Maybe a good illustration here?__
 
 # Redeemed
 
