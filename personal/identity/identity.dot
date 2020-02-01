@@ -1,0 +1,15 @@
+digraph
+{ graph [rankdir=LR, size="11!,5", center=1];
+  "God" -> "You" [label="[3] blessed"]
+  "God" -> "You" [label="[4] chose"]
+  "God" -> "You" [label="[4] loves*"]
+  "God" -> "You" [label="[5] adopted* you before time"]
+  "God" -> "You" [label="[6] bestowed grace on"]
+  "God" -> "You" [label="[7] redeemed*"]
+  "God" -> "You" [label="[7] forgave*"]
+  "God" -> "You" [label="[8] lavished riches on"]
+  "God" -> "You" [label="[9] revealed His 'mystery' to"]
+  "God" -> "You" [label="[10] claimed (predestined) you"]
+  "God" -> "You" [label="[13] sealed*"]
+  "God" -> "You" [label="[14] will give an inheritance to"]
+}
