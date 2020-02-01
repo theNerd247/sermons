@@ -85,6 +85,16 @@ other people. We shouldn't do this because God - who ought to be the biggest
 fault finder in us - DOESN'T. When we come into God's family He doesn't try
 and find out all our faults when He looks at us.
 
+__Good analogy on grace vs critical attitude__
+
+Going to a restraunt to praise the chef vs judging the quality of the place.
+
+  a). gets the food and opens the steak and smells the sauce because they are 
+      excited to see the handy work that God has created - they have a grace
+      filled eye.
+  b). gets the food and opens the steak and smells the sauce to make sure 
+      the chef didn't get anything wrong - they have a critical eye.
+
 # Adopted
 
 He predestined us 
@@ -99,7 +109,7 @@ He predestined us
 
 _Maybe a good illustration here?__
 
-# Redeemed
+# Forgiven
 
 # Sealed
 
