@@ -81,7 +81,21 @@ identity in Christ and how God sees us.
 
 # Seeing ourselves with a proper lens
 
+_Many of us know God is calling us to a perfect life. But we mix up what God
+calls perfect with our own perceptions of what perfect is or means.  We distort
+reality by setting standards for our selves and way higher than God ever
+intended_.
+
+There might be some of you that feel like you're never good enough or others
+aren't good enough. You may think to low of your self or to high. Both are
+forms of perfectionism.
+
+Let's look at a few key truths that will help free you from having a critical
+attitude:
+
 # Adoption
+
+First is to being seeing who you are in Christ.
 
 > Eph 1:4b-5a
 > "In love He predestined us to adoption as sons through Jesus Christ to Himself"
@@ -106,21 +120,11 @@ NLT says :
 
 God wanted to adopt you and not only that it put a huge grin on His face!
 
+_You are not an after thought to God! You are not a mistake!_
+
 > Eph 1:6
 > "to the praise of the glory of His grace, which he has freely given us in the
 > beloved"
-
-_Many of us know God is calling us to a perfect life. But we mix up what God
-calls perfect with our own perceptions of what perfect is or means.  We distort
-reality by setting standards for our selves and way higher than God ever
-intended_.
-
-There might be some of you that feel like you're never good enough or others
-aren't good enough. You may think to low of your self or to high. Both are
-forms of perfectionism.
-
-Let's look at a few truths that will help free you from having a critical
-attitude:
 
 ## Grace
 
@@ -151,10 +155,31 @@ grace
   knowing it because they see their worth in what they do instead of who they
   already are. 
 
-## Forgiven
+## Redeemed 
 
 > Eph 1:7
-> "In Him we have redemption through His blood, the forgiveness of our trespasses
+> "In Him we have redemption through His blood"
+
+redeemed 
+: to buy out of the slave market and set free permanently
+
+Elephants at a circus
+  
+  * chained when they're really young. At the time they cannot resist
+  * when the elephant gets much older and larger though they have the potential
+    to break the chain they don't because they still think it will hold them
+    down.
+
+Many of us who struggle with perfectionism were trained this way when they were
+really young. I know because I was abused as a child and grew up in a rough
+home. 
+
+_The second key to being free from perfectionism is to realize that Christ has 
+set you free from needing to pay off your sin debt to God._
+
+## Forgiven
+
+>  the forgiveness of our trespasses
 > according to the riches of His grace which He lavished on us."
 
 Psalm 103:11-14
@@ -164,6 +189,11 @@ If you struggle with having a critical attitude say to yourself:
 > "I have nothing to prove. God showed me grace when I couldn't be perfect by
 > adopting me and forgiving me. It's ok if I make a mistake right now. He loves
 > me no matter what"
+
+Forgiveness 
+: letting go of the wrong done to you or by you
+: changing how you feel about that person and being seeing them as God sees
+them.
 
 # Application
 
