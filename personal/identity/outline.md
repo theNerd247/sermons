@@ -2,6 +2,14 @@
 
 ## Bite
 
+My personal relationship with God is best described by...
+  
+  * ...a hamster running on a wheel (but I keep falling off)
+  * ...running from the cops
+  * ...we hang out every now and then
+  * ...I'm not sure; God feels distant or I don't think about Him much
+  * ...like a bush growing in garden
+
 Eph 1:3
 > "Blessed be the God and Father of our Lord Jesus Christ who has blessed us with every
 > spiritual blessing in the heavenly places in Christ"
