@@ -2,6 +2,7 @@
 
 ## Bite
 
+Eph 1:3
 > "Blessed be the God and Father of our Lord Jesus Christ who has blessed us with every
 > spiritual blessing in the heavenly places in Christ"
 
@@ -39,13 +40,8 @@ before Him
 : gives the idea of looking into something in order to inspect it
 
 God is constantly looking down into each person
-* The purpose is to see Christ's character in us and  not to see fault and nit
-  pick our short comings 
-
-* We are not perfect but when God looks at us He 
-
-  * doesn't see we are as the sum of all our flaws and strengths.
-  * sees us as His perfect Son 
+* to see Christ's character in us 
+* not to see fault and nit pick our short comings 
 
 Restraunt analogy:
 
@@ -64,16 +60,25 @@ Restraunt analogy:
       * "I'm excited to taste it"
       * Expects the best from others but has realistic expectations - standards are left to God
 
-    * You could still be disappointed 
     * God can be disappointed in what we do but He is constantly looking for Christ in us.
 
-# How to not have a critical attitude
+_Many of us get the idea of living a perfect life. But still feel like we're on
+a spiritual treadmill. God is at the top of an ever growing ladder. You
+constantly go through cycles of God feeling close and you feeling like the scum
+of the earth_
 
-## Adoption
+_This is because we have not yet graspsed what Paul talks about next:_ Our
+identity in Christ and how God sees us.
 
-> "predestined us to adoption as sons through Jesus Christ to Himself"
+# Seeing ourselves with a proper lens
 
-: God says "everyone who is saved will be called my son/daughter"
+# Adoption
+
+Eph 1:4b-5a
+> "In love He predestined us to adoption as sons through Jesus Christ to Himself"
+
+* God says "everyone who is saved I love unconditionally and will be called my
+  son/daughter and adopted into my family"
 
 adoption 
 : your identity now belongs to God
@@ -82,8 +87,10 @@ adoption
 : You are not the sum of your best and worst moments or experiences in life.
 : You are not your career 
 
-
+Eph 1:5b
 > "According to the kind intention of His will"
+
+NLT says :
 
 > This is what he wanted to do, and it gave him great pleasure 
 > - Eph 1:5 (NLT)
@@ -93,17 +100,25 @@ God wanted to adopt you and not only that it put a huge grin on His face!
 > "to the praise of the glory of His grace, which he has freely given us in the
 > beloved"
 
+_Many of us know God is calling us to a perfect life. But we mix up what God
+calls perfect with our own perceptions of what perfect is or means.  We distort
+reality by setting standards for our selves and way higher than God ever
+intended_.
+
+There might be some of you that feel like you're never good enough or others
+aren't good enough. You may think to low of your self or to high. Both are
+forms of perfectionism.
+
+Let's look at a few truths that will help free you from having a critical
+attitude:
+
+## Grace
+
 grace
 : favor shown to someone that is undeserved
 : doing something really good to someone when they deserve something really bad
   to happen to them
-: something that can't be payed back
-
-* God showing us His grace by sending Christ to die for us is _something you'll
-  never be able to pay back._
-
-* By letting this truth sink in to your heart you will begin to be free from
-  having a critical attitude and really begin to enjoy life.
+: something that can't be payed back (the scary part)
 
 * Critical people have a hard time grasping grace - or worse: they reject it -
   because they always feel they have to prove themselves and their worth.
@@ -116,33 +131,57 @@ grace
     something wrong with me
   * I have to ______ or there is something wrong with me.
 
+Ephesians 2:8-10
+
 * Christians with a critical attitude are trying to earn God's favor without
   knowing it because they see their worth in what they do instead of who they
   already are. 
 
 ## Forgiven
 
+Eph 1:7
+> "In Him we have redemption through His blood, the forgiveness of our trespasses
+> according to the riches of His grace which He lavished on us."
+
 Psalm 103:11-14
 
 If you struggle with having a critical attitude say to yourself:
 
-  > "I have nothing to prove. God showed me grace when I couldn't be perfect by
-  > adopting me and forgiving me. It's ok if I make a mistake right now. He loves
-  > me no matter what"
+> "I have nothing to prove. God showed me grace when I couldn't be perfect by
+> adopting me and forgiving me. It's ok if I make a mistake right now. He loves
+> me no matter what"
 
 # Application
 
 ## To the unsaved
 
-2 Peter 3: passage on not wanting those to perish (as last part to those not
-saved)
+2 Peter 3
+
+* God doesn't want any of us to perish and so He is patiently waiting for you
+  to accept His free gift and life the exciting life that He intended for you
+  to live.
+
+* He will knock but He is not going to force you into coming to Him.
 
 ## To the saved
 
-1 John 3:2-3 if we are God's children then we should purify ourselves because
-God has declared us pure in His sight.
+Eph 4:1
+> "walk in a manner worthy of the calling with which you have been called"
 
-1 John 1:9 - God is ready to forgive you from the sin you have committed, are
-committing, and may commit.
+* This is done by abstaining from sin and continuously confessing specific sins
+  in your life and allowing the Holy Spirit to bring to mind areas of your life
+  that He needs to change and submitting them to Him on a momemnt by moment
+  basis.
+
+1 John 1:9 
+> "If we confess our sins He is faithful and just to forgive us and cleans us
+> from all unrighteousness"
+
+* God is ready to forgive you from the sin you have committed, are committing,
+  and may commit.
 
 Jude 24
+> "Now to Him who is able to keep you from stumbling, and to make you stand in
+> the presence of His glory blameless with great joy, to the only God our
+> Savior, through Jesus Christ our Lord, be glory, majesty, dominion and
+> authority, before all time and now and forever. Amen."
