@@ -48,6 +48,7 @@ before Him
 : gives the idea of looking into something in order to inspect it
 
 God is constantly looking down into each person
+
 * to see Christ's character in us 
 * not to see fault and nit pick our short comings 
 
