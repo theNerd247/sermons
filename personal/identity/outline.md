@@ -128,14 +128,24 @@ _You are not an after thought to God! You are not a mistake!_
 
 ## Grace
 
+The Second key is to begin grasping grace
+
 grace
 : favor shown to someone that is undeserved
 : doing something really good to someone when they deserve something really bad
   to happen to them
 : something that can't be payed back (the scary part)
 
-* Critical people have a hard time grasping grace - or worse: they reject it -
-  because they always feel they have to prove themselves and their worth.
+Some ways to grasp grace are:
+
+  * Be patient with people when they do something that irritates you or hurts
+    you
+  * See people for who they are not what they do. 
+  * (Might be the hardest) Allow other people to love on you _especially when
+    you do something wrong_
+
+Critical people have a hard time grasping grace - or worse: they reject it -
+because they always feel they have to prove themselves and their worth.
 
   * I have to be smart - I always have to create the best solution the fastest
     or there is something wrong with me
@@ -157,6 +167,8 @@ grace
 
 ## Redeemed 
 
+The second key is to understand that God has set you free from the power of sin.
+
 > Eph 1:7
 > "In Him we have redemption through His blood"
 
@@ -174,11 +186,18 @@ Many of us who struggle with perfectionism were trained this way when they were
 really young. I know because I was abused as a child and grew up in a rough
 home. 
 
-_The second key to being free from perfectionism is to realize that Christ has 
-set you free from needing to pay off your sin debt to God._
+* Begin to realize that if you submit yourself to God you will change into a
+  person that you and others will love. (Because of how they see God in you).
+  __YOU CAN BE FREE FROM PERFECTIONISM__
+* Allow the Holy Spirit to bring to your memory areas of your life that need to
+  change. For me this meant learning to address the pain of my past and
+  admiting that I needed help and didn't know how to fix myself.
+* Don't feel like you have to change overnight; don't be a perfectionist about
+  not being a perfectionist.
 
 ## Forgiven
 
+> Eph 1:7b
 >  the forgiveness of our trespasses
 > according to the riches of His grace which He lavished on us."
 
@@ -195,7 +214,18 @@ Forgiveness
 : changing how you feel about that person and being seeing them as God sees
 them.
 
+* Make a conscious choice to forgive
+* Be specific about what hurt you (or what you did wrong)
+* Release that person from feelings of anamosity and bitterness.
+
 # Application
+
+1. Seek the scriptures about how God sees you.
+1. Learn to show and accept grace from others
+1. Open your life to the Holy Spirit so that you might start living out the
+   freedom you already have
+1. Continuously forgive those who have hurt you and yourself for things you've
+   done wrong
 
 ## To the unsaved
 
