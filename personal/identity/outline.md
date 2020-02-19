@@ -10,7 +10,7 @@ My personal relationship with God is best described by...
   * ...I'm not sure; God feels distant or I don't think about Him much
   * ...like a bush growing in garden
 
-Eph 1:3
+> Eph 1:3
 > "Blessed be the God and Father of our Lord Jesus Christ who has blessed us with every
 > spiritual blessing in the heavenly places in Christ"
 
@@ -32,7 +32,7 @@ holy
 blameless
 : without fault; spotless; perfect
 
-1 Peter 1:14-16
+> 1 Peter 1:14-16
 > "As obedient children, do not be conformed to the former lusts which were
 > yours in your ignorance, but like the Holy One who called you, be holy
 > yourselves also in all your behavior; because it is written, “You shall be
@@ -82,7 +82,7 @@ identity in Christ and how God sees us.
 
 # Adoption
 
-Eph 1:4b-5a
+> Eph 1:4b-5a
 > "In love He predestined us to adoption as sons through Jesus Christ to Himself"
 
 * God says "everyone who is saved I love unconditionally and will be called my
@@ -95,7 +95,7 @@ adoption
 : You are not the sum of your best and worst moments or experiences in life.
 : You are not your career 
 
-Eph 1:5b
+> Eph 1:5b
 > "According to the kind intention of His will"
 
 NLT says :
@@ -105,6 +105,7 @@ NLT says :
 
 God wanted to adopt you and not only that it put a huge grin on His face!
 
+> Eph 1:6
 > "to the praise of the glory of His grace, which he has freely given us in the
 > beloved"
 
@@ -139,7 +140,11 @@ grace
     something wrong with me
   * I have to ______ or there is something wrong with me.
 
-Ephesians 2:8-10
+> Ephesians 2:8-10
+> "For by grace you have been saved through faith; and that not of yourselves,
+> it is the gift of God; not as a result of works, so that no one may boast.
+> For we are His workmanship, created in Christ Jesus for good works, which God
+> prepared beforehand so that we would walk in them."
 
 * Christians with a critical attitude are trying to earn God's favor without
   knowing it because they see their worth in what they do instead of who they
@@ -147,7 +152,7 @@ Ephesians 2:8-10
 
 ## Forgiven
 
-Eph 1:7
+> Eph 1:7
 > "In Him we have redemption through His blood, the forgiveness of our trespasses
 > according to the riches of His grace which He lavished on us."
 
@@ -163,7 +168,10 @@ If you struggle with having a critical attitude say to yourself:
 
 ## To the unsaved
 
-2 Peter 3
+> 2 Peter 3:9
+> "The Lord is not slow about His promise, as some count slowness, but is
+> patient toward you, not wishing for any to perish but for all to come to
+> repentance."
 
 * God doesn't want any of us to perish and so He is patiently waiting for you
   to accept His free gift and life the exciting life that He intended for you
@@ -173,7 +181,7 @@ If you struggle with having a critical attitude say to yourself:
 
 ## To the saved
 
-Eph 4:1
+> Eph 4:1
 > "walk in a manner worthy of the calling with which you have been called"
 
 * This is done by abstaining from sin and continuously confessing specific sins
@@ -181,14 +189,14 @@ Eph 4:1
   that He needs to change and submitting them to Him on a momemnt by moment
   basis.
 
-1 John 1:9 
+> 1 John 1:9 
 > "If we confess our sins He is faithful and just to forgive us and cleans us
 > from all unrighteousness"
 
 * God is ready to forgive you from the sin you have committed, are committing,
   and may commit.
 
-Jude 24
+> Jude 1:24
 > "Now to Him who is able to keep you from stumbling, and to make you stand in
 > the presence of His glory blameless with great joy, to the only God our
 > Savior, through Jesus Christ our Lord, be glory, majesty, dominion and
