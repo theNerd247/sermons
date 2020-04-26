@@ -13,13 +13,6 @@ Let's look at a few things that God declares about you and Himself.
 
 What makes life vibrant? Also, how are you supposed to live the Christian life?
 
-My personal relationship with God is best described by...
-  
-  * ... a hamster running on a wheel;
-  * ... running from the cops
-  * ... a friendship
-  * ... I'm not sure; God feels distant or I don't think about Him much
-
 Many Christians go through life feeling like a hamster on a wheel. They try as
 hard as they can to obey God only to run out of steam and fall into a dry
 spell.  God feels distant and, frankly, unpleasant. You may even feel ashamed
@@ -65,13 +58,9 @@ relationship with Him in Ephesians chapter 1.
 
 # Blessed ? 
 
-Should include this one?
-
-The blessing was done before time started and so it was not an after thought.
+# Chose 
 
 __Imagine that. You were not an after thought to God.__
-
-# Chose 
 
 God → chose → you
       ├─ (who)  in Him (Christ)
@@ -108,37 +97,31 @@ of finding fault:
 
 Essential points:
 
-  * God chose you
+  * God chose you before you even existed; you are eternal in the sense that 
+    God had your design and name made up before you even existed.
 
   * The reason for chosing you was so that when He looked on you He would open
     a big wide smile and be pleased with how He saw you.
 
+  * Holy and blameless are talking about how God sees your character. You are 
+    to be different than the rest of the world - a unique purpose - and you
+    are destined to be without fault before God.
+
   * (if you are saved - i.e. one of the chosen) God is not looking for faults
     within you. He is pleased with who you are.
-
-_Personal story_
-
-I had a step-mother growing up who would inspect the result of my chores before
-I was allowed to leave the house - ever (before school, before going outside to
-play). I had to ask for permission to leave - which in its own right isn't bad;
-upon which - at her leisure - she would walk around the house - my room, the
-bathroom, the kitchen, etc. - and look for faults. If she couldn't find one
-then she was pleased. She was searching for faults and her pleasure came from
-the lack of faults. God searches those whom He chose to see the wonderful handy
-work that He did; not to find faults within us.  Our value comes from our
-position in Christ. And while God reveals those things to us that are behind
-the different partitions of our life it is for the purpose of our benefit and
-His pleasure of making us into His Son. It's a gift that keeps on giving! 
 
 _Application point_
 
 Often we inspect others with the intent of fault finding. It's those sentences
 that start like: "They had better not ..." or "Did they just...?" or "I hope
-they didn't ...". We are hoping something is wrong with them or with what they
-had done. This is called "having a critical attitude" - it's fault finding in
-other people. We shouldn't do this because God - who ought to be the biggest
-fault finder in us - DOESN'T. When we come into God's family He doesn't try
-and find out all our faults when He looks at us.
+they didn't ...", or my favorite: "Well technically..." . We have found or are
+hoping to find something is wrong with them or with what they had done. This is
+called "having a critical attitude" - it's fault finding in other people. We
+shouldn't do this because God - who ought to be the biggest fault finder in us
+DOESN'T. When we come into God's family He doesn't try and find out all our
+faults when He looks at us. For one He already knows them - but 2nd He
+gracefully wiped them away from us in order to see us as He created us - His
+creation to bear His image and have a deep relationship with him.
 
 __Good analogy on grace vs critical attitude__
 
@@ -149,6 +132,12 @@ Going to a restraunt to praise the chef vs judging the quality of the place.
       filled eye.
   b). gets the food and opens the steak and smells the sauce to make sure 
       the chef didn't get anything wrong - they have a critical eye.
+
+Col 1:22 
+  - seen as the Goal of Christ.
+  - we will eventually be able to be blameless and without affect of sin.
+  - The Holy Spirit is wanting to work in you and make you into something 
+    that God is proud of.
 
 # Adopted
 
@@ -213,11 +202,14 @@ John 3:16
 
 # Application
 
-## To the unsaved
-
-? 1 Peter passage on not wanting those to perish (as last part to those not saved)
-
 ## To the saved
 
-1 John 3:2-3 ⇒ if we are God's children then we should purify ourselves because God has 
-declared us pure in His sight.
+# In Him
+
+Every verb that has God as the subject:
+
+  * that verb is aorist 
+  * the subject is us (Christians)
+  * there is a prepositional phrase "in Him"
+
+This refers to all that Christ had set out to accomplish here on earth.

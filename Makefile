@@ -2,9 +2,9 @@
 
 srcs=$(wildcard mvc/*.md)
 bin=./docs
-pdfs := $(addprefix $(bin)/,$(srcs:%.md=%.pdf))
+htmls := $(addprefix $(bin)/,$(srcs:%.md=%.html))
 
-all: mvc $(bin) $(pdfs)
+all: mvc $(bin) $(htmls)
 
 mvc:
 	mkdir -p $(bin)/mvc
@@ -12,5 +12,5 @@ mvc:
 $(bin):
 	mkdir -p $(bin)
 
-$(bin)/%.pdf: %.md $(bin)
+$(bin)/%.html: %.md $(bin)
 	pandoc -s -o $@ $<

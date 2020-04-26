@@ -11,8 +11,8 @@ My personal relationship with God is best described by...
   * ...like a bush growing in garden
 
 > Eph 1:3
-> "Blessed be the God and Father of our Lord Jesus Christ who has blessed us with every
-> spiritual blessing in the heavenly places in Christ"
+> "Blessed be the God and Father of our Lord Jesus Christ who has blessed us
+> with every spiritual blessing in the heavenly places in Christ"
 
 Praise be to God!
 
@@ -21,8 +21,8 @@ Praise be to God!
 > "just as He chose us in Him before the foundation of the world, that we would
 > be holy and blameless before Him."
 
-Before space-time existed God had you planned out and in His mind and is calling you
-to live a life that is holy and blameless.
+Before space-time existed God had you planned out and in His mind and is
+calling you to live a life that is holy and blameless.
 
 _What does holy and blameless before Him mean?_
 
@@ -30,7 +30,7 @@ holy
 : to be set seperated out and be used for a special purpose
 
 blameless
-: without fault; spotless; perfect
+: without fault; spotless
 
 > 1 Peter 1:14-16
 > "As obedient children, do not be conformed to the former lusts which were
@@ -39,10 +39,9 @@ blameless
 > holy, for I am holy.”
 
 
-Paul is saying: In light of you being chosen through Christ's death and resurrection start
-living a life that is seperated out and perfect before God.
-
-_God is calling us to live a perfect life._
+Paul is saying: In light of you being chosen through Christ's death and
+resurrection God is calling you to a life that is seperated out and consistent
+before God.
 
 before Him
 : gives the idea of looking into something in order to inspect it
@@ -58,33 +57,30 @@ Restraunt analogy:
   * You set aside main course as special meal
   * 2 ways you can expect the quality of the food
 
-    * critical eye: 
+    * critical eye:
 
-      * "I hope the food is hot enough"
-      * "I hope it's not to salty"
+      * there's always something wrong with the food and nothing is ever good
+        enough
       * expects people / things to live up to their standards
     * complimentary eye: 
 
       * "I can't wait to see the best of the chef"
       * "I'm excited to taste it"
-      * Expects the best from others but has realistic expectations - standards are left to God
+      * Expects the best from others but has realistic expectations - standards
+        are left to God
+    * God can be disappointed in what we do but He is constantly looking for
+      Christ in us.
 
-    * God can be disappointed in what we do but He is constantly looking for Christ in us.
+When many of us hear the words "holy and blameless life" and feel that God is 
+asking them to be perfect.
 
-_Many of us get the idea of living a perfect life. But still feel like we're on
-a spiritual treadmill. God is at the top of an ever growing ladder. You
-constantly go through cycles of God feeling close and you feeling like the scum
-of the earth_
-
-_This is because we have not yet graspsed what Paul talks about next:_ Our
-identity in Christ and how God sees us.
+Some of us build up high standards for our life.
 
 # Seeing ourselves with a proper lens
 
-_Many of us know God is calling us to a perfect life. But we mix up what God
-calls perfect with our own perceptions of what perfect is or means.  We distort
-reality by setting standards for our selves and way higher than God ever
-intended_.
+_But we mix up what God calls perfect with our own perceptions of what perfect
+is or means.  We distort reality by setting standards for our selves and way
+higher than God ever intended_.
 
 There might be some of you that feel like you're never good enough or others
 aren't good enough. You may think to low of your self or to high. Both are
